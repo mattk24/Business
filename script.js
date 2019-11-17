@@ -1,7 +1,7 @@
 $("h1").css("color", "blue");
 $(".pricing").css("color", "blue");
 $(".self").css("color", "blue");
-$("button").css("font-size", "13pt");
+$("button").css("font-size", "14pt");
 $("button").css("font-weight", "bold");
 $("a").css("color", "gold");
 $("button").css("background-color", "blue");
