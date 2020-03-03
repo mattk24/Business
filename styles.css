@@ -5,7 +5,12 @@
 }
 
 .business hours {
-  margin left: 5px;
+   margin-bottom: 2rem;
+  margin-top: 7rem;
+  text-align: center;
+  position: relative;
+  left: 15rem;
+  bottom: 8rem;
 }
 
 body {
