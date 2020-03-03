@@ -4,6 +4,11 @@
   right: 4.8rem;
 }
 
+.business hours {
+  position: relative;
+  bottom: 6rem;
+}
+
 body {
   background-color: gold;
 }
